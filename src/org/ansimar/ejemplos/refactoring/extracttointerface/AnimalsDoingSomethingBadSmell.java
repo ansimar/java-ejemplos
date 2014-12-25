@@ -10,7 +10,6 @@ public class AnimalsDoingSomethingBadSmell {
     * */
     public static void main(String[] args){
         Character arg = args[0].toCharArray()[0];
-        Object animal = null;
 
         switch (arg){
             case 'd':
