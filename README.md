@@ -7,7 +7,7 @@ general.
 ###Paquete org.ejemplos.refactoring.extracttointerface
 Aquí hay un pequeño de ejemplo(AnimalsDoingSomethingBadSmell) de como refactorizar una clase en
 la que se observa código duplicado y en la que si seguimos esa estrategía este podría hacer
-crecer el método principal aún más.
+crecer el método principal de manera poco aconsejable.
 En el ejemplo tenemos una muestra(AnimalsDoingSomethingOk) de una mejor aproximación para
 evitar estos problemas.
 
