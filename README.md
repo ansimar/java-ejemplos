@@ -11,7 +11,6 @@ En el ejemplo tenemos una muestra(AnimalsDoingSomethingOk) de una mejor aproxima
 evitar estos problemas.
 
 h1. java-examples
--------------
 
 Examples in Java about concepts related with this language and programming.
 
